@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <h1>HomeView7 page from this {{ title }}</h1>
+    <h1>HomeView page from this {{ title }}[dynamic path]</h1>
     <div>-------------------------------------------------------------------</div>
     <HomeView/>
   </div>
